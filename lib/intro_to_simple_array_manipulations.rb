@@ -16,7 +16,6 @@ end
 
 def using_shift(array)
   array.pop()
-  array
 end
 
 def shift_with_args(array)
